@@ -1,6 +1,4 @@
-Of course. Since everything is in the main folder, the repository structure is simpler. Here is the updated `README.md` file for your GitHub repository.
 
------
 
 # 🍷 Wine Quality Prediction using Random Forest
 
